@@ -1,5 +1,5 @@
 # calculaRentabilidade
-Projeto Java que de uma calculadora de rentabilidade conforme a taxa e o período informado.
+Projeto Java de uma calculadora de rentabilidade conforme a taxa e o período informado.
 
 Para visualizar o sistema funcionando é necessário ter instalado Java versão 7 ou superior;
 
